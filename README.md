@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="center"> Hello, my name is Andrey 👋</h1>
 
-<!--
-**Andryshazzz/andryshazzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🚀 I create cross-platform mobile App on Flutter.<br>
+  💡 I love clean architecture, user-friendly UI/UX, and optimized code.<br>
+  🔭 Open to new opportunities and interesting projects!
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Languages and Tools
+
+![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat)
+![Flutter](https://img.shields.io/badge/-Flutter-42AAFF?logo=flutter&logoColor=white&style=flat)
+![Android Studio](https://img.shields.io/badge/-Go-6495ED?logo=go&logoColor=white&style=flat)
+
+## 📫 Contact me
+
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?logo=telegram&logoColor=white&style=flat)](https://t.me/andryshaDev)
+[![Yandex Mail](https://img.shields.io/badge/-Mail-FF0000?logo=yandex&logoColor=white&style=flat)](mailto:AndreyAstakhovw@yandex.ru)
+---
+
+<p align="center">✨ Thanks for stopping by! I hope you enjoyed my projects. 😄</p>
