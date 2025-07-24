@@ -12,7 +12,9 @@
 
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat)
 ![Flutter](https://img.shields.io/badge/-Flutter-42AAFF?logo=flutter&logoColor=white&style=flat)
-![Android Studio](https://img.shields.io/badge/-Go-6495ED?logo=go&logoColor=white&style=flat)
+![Go](https://img.shields.io/badge/-Go-6495ED?logo=go&logoColor=white&style=flat)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+![Figma](https://img.shields.io/badge/-Figma-090909?logo=figma&logoColor=white&style=flat)
 
 ## 📫 Contact me
 
