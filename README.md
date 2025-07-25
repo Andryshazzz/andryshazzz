@@ -18,7 +18,7 @@
 
 ## 📫 Contact me
 
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?logo=telegram&logoColor=white&style=flat)](https://t.me/andryshaDev)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?logo=telegram&logoColor=white&style=flat)](https://t.me/andreyDevelopp)
 [![Yandex Mail](https://img.shields.io/badge/-Mail-FF0000?logo=yandex&logoColor=white&style=flat)](mailto:AndreyAstakhovw@yandex.ru)
 ---
 
